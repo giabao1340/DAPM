@@ -1,8 +1,6 @@
 Hi 👋, I'm Gia Bao
-GitHub stars GitHub forks GitHub contributors
+🌱 I’m currently learning Web Development and other programming languages
 
-A collection of GitHub profile README's examples.
+📫 How to reach me adampithewan@gmail.com
 
-Contributions are welcome. Read the Guidelines on how to contribute. Feel free to add your or someone else's GitHub profile README file.
-
-Don't forget to hit the ⭐ if you like this repo.
+⚡ Fun fact :- Food and Music🎵 are the reasons to live.
