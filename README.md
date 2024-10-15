@@ -1,4 +1,4 @@
-Hi guy, my name is Bảo
+Hi 👋, I'm Gia Bao
 GitHub stars GitHub forks GitHub contributors
 
 A collection of GitHub profile README's examples.
