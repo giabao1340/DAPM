@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{834F5E83-5175-4EE7-A8C3-AA47694C16EC}|DoAn_LapTrinhWeb\\DoAn_LapTrinhWeb.csproj|c:\\users\\luong\\downloads\\websitelaptop\\websitelaptop\\doan_laptrinhweb\\areas\\admin\\views\\productsadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{834F5E83-5175-4EE7-A8C3-AA47694C16EC}|DoAn_LapTrinhWeb\\DoAn_LapTrinhWeb.csproj|solutionrelative:doan_laptrinhweb\\areas\\admin\\views\\productsadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834F5E83-5175-4EE7-A8C3-AA47694C16EC}|DoAn_LapTrinhWeb\\DoAn_LapTrinhWeb.csproj|c:\\users\\luong\\downloads\\websitelaptop\\websitelaptop\\doan_laptrinhweb\\areas\\admin\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{834F5E83-5175-4EE7-A8C3-AA47694C16EC}|DoAn_LapTrinhWeb\\DoAn_LapTrinhWeb.csproj|solutionrelative:doan_laptrinhweb\\areas\\admin\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834F5E83-5175-4EE7-A8C3-AA47694C16EC}|DoAn_LapTrinhWeb\\DoAn_LapTrinhWeb.csproj|C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\doan_laptrinhweb\\common\\helpers\\authhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834F5E83-5175-4EE7-A8C3-AA47694C16EC}|DoAn_LapTrinhWeb\\DoAn_LapTrinhWeb.csproj|solutionrelative:doan_laptrinhweb\\common\\helpers\\authhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834F5E83-5175-4EE7-A8C3-AA47694C16EC}|DoAn_LapTrinhWeb\\DoAn_LapTrinhWeb.csproj|C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\doan_laptrinhweb\\common\\loggeduserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834F5E83-5175-4EE7-A8C3-AA47694C16EC}|DoAn_LapTrinhWeb\\DoAn_LapTrinhWeb.csproj|solutionrelative:doan_laptrinhweb\\common\\loggeduserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834F5E83-5175-4EE7-A8C3-AA47694C16EC}|DoAn_LapTrinhWeb\\DoAn_LapTrinhWeb.csproj|C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\doan_laptrinhweb\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834F5E83-5175-4EE7-A8C3-AA47694C16EC}|DoAn_LapTrinhWeb\\DoAn_LapTrinhWeb.csproj|solutionrelative:doan_laptrinhweb\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834F5E83-5175-4EE7-A8C3-AA47694C16EC}|DoAn_LapTrinhWeb\\DoAn_LapTrinhWeb.csproj|C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\doan_laptrinhweb\\areas\\admin\\views\\shared\\_messagealert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{834F5E83-5175-4EE7-A8C3-AA47694C16EC}|DoAn_LapTrinhWeb\\DoAn_LapTrinhWeb.csproj|solutionrelative:doan_laptrinhweb\\areas\\admin\\views\\shared\\_messagealert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834F5E83-5175-4EE7-A8C3-AA47694C16EC}|DoAn_LapTrinhWeb\\DoAn_LapTrinhWeb.csproj|C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\doan_laptrinhweb\\areas\\admin\\views\\shared\\_headerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{834F5E83-5175-4EE7-A8C3-AA47694C16EC}|DoAn_LapTrinhWeb\\DoAn_LapTrinhWeb.csproj|solutionrelative:doan_laptrinhweb\\areas\\admin\\views\\shared\\_headerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834F5E83-5175-4EE7-A8C3-AA47694C16EC}|DoAn_LapTrinhWeb\\DoAn_LapTrinhWeb.csproj|C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\doan_laptrinhweb\\views\\shared\\main_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{834F5E83-5175-4EE7-A8C3-AA47694C16EC}|DoAn_LapTrinhWeb\\DoAn_LapTrinhWeb.csproj|solutionrelative:doan_laptrinhweb\\views\\shared\\main_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\DoAn_LapTrinhWeb\\Areas\\Admin\\Views\\ProductsAdmin\\Create.cshtml",
+              "RelativeDocumentMoniker": "DoAn_LapTrinhWeb\\Areas\\Admin\\Views\\ProductsAdmin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\DoAn_LapTrinhWeb\\Areas\\Admin\\Views\\ProductsAdmin\\Create.cshtml*",
+              "RelativeToolTip": "DoAn_LapTrinhWeb\\Areas\\Admin\\Views\\ProductsAdmin\\Create.cshtml*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T09:41:49.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\DoAn_LapTrinhWeb\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "DoAn_LapTrinhWeb\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\DoAn_LapTrinhWeb\\Models\\Genre.cs",
+              "RelativeToolTip": "DoAn_LapTrinhWeb\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:40:26.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoggedUserData.cs",
+              "DocumentMoniker": "C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\DoAn_LapTrinhWeb\\Common\\LoggedUserData.cs",
+              "RelativeDocumentMoniker": "DoAn_LapTrinhWeb\\Common\\LoggedUserData.cs",
+              "ToolTip": "C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\DoAn_LapTrinhWeb\\Common\\LoggedUserData.cs",
+              "RelativeToolTip": "DoAn_LapTrinhWeb\\Common\\LoggedUserData.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:38:34.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthHelper.cs",
+              "DocumentMoniker": "C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\DoAn_LapTrinhWeb\\Common\\Helpers\\AuthHelper.cs",
+              "RelativeDocumentMoniker": "DoAn_LapTrinhWeb\\Common\\Helpers\\AuthHelper.cs",
+              "ToolTip": "C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\DoAn_LapTrinhWeb\\Common\\Helpers\\AuthHelper.cs",
+              "RelativeToolTip": "DoAn_LapTrinhWeb\\Common\\Helpers\\AuthHelper.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswCMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:38:07.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_HeaderLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\DoAn_LapTrinhWeb\\Areas\\Admin\\Views\\Shared\\_HeaderLayout.cshtml",
+              "RelativeDocumentMoniker": "DoAn_LapTrinhWeb\\Areas\\Admin\\Views\\Shared\\_HeaderLayout.cshtml",
+              "ToolTip": "C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\DoAn_LapTrinhWeb\\Areas\\Admin\\Views\\Shared\\_HeaderLayout.cshtml",
+              "RelativeToolTip": "DoAn_LapTrinhWeb\\Areas\\Admin\\Views\\Shared\\_HeaderLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T06:27:49.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_MessageAlert.cshtml",
+              "DocumentMoniker": "C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\DoAn_LapTrinhWeb\\Areas\\Admin\\Views\\Shared\\_MessageAlert.cshtml",
+              "RelativeDocumentMoniker": "DoAn_LapTrinhWeb\\Areas\\Admin\\Views\\Shared\\_MessageAlert.cshtml",
+              "ToolTip": "C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\DoAn_LapTrinhWeb\\Areas\\Admin\\Views\\Shared\\_MessageAlert.cshtml",
+              "RelativeToolTip": "DoAn_LapTrinhWeb\\Areas\\Admin\\Views\\Shared\\_MessageAlert.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T06:24:18.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_MainLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\DoAn_LapTrinhWeb\\Areas\\Admin\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeDocumentMoniker": "DoAn_LapTrinhWeb\\Areas\\Admin\\Views\\Shared\\_MainLayout.cshtml",
+              "ToolTip": "C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\DoAn_LapTrinhWeb\\Areas\\Admin\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeToolTip": "DoAn_LapTrinhWeb\\Areas\\Admin\\Views\\Shared\\_MainLayout.cshtml",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAIgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T06:24:17.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Main_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\DoAn_LapTrinhWeb\\Views\\Shared\\Main_Layout.cshtml",
+              "RelativeDocumentMoniker": "DoAn_LapTrinhWeb\\Views\\Shared\\Main_Layout.cshtml",
+              "ToolTip": "C:\\Users\\luong\\Downloads\\WebsiteLaptop\\WebsiteLaptop\\DoAn_LapTrinhWeb\\Views\\Shared\\Main_Layout.cshtml",
+              "RelativeToolTip": "DoAn_LapTrinhWeb\\Views\\Shared\\Main_Layout.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T06:23:55.657Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
