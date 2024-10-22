@@ -1,18 +1,14 @@
 Hi 👋, I'm Gia Bao
 
-sv
+I'm studying Huflit University
 
-đè tài
+Subject: Software Technology 
 
-ngôn ngữ
+Language: C#, Html, CSS, Js, SQL Server
 
-công nghệ
+Technology: Asp.net web application
 
-project
-
-nhóm gồm ai
-
-tên dự án
+Project: Manager Laptop and Accessory Store 
 
 🌱 I’m currently learning Web Development and other programming languages
 
